@@ -9,7 +9,7 @@ Susi is an artificial intelligence combining pattern matching, internet data, da
 
 # Why is it built?
 
-To create a personal assistant software like Siri and Cortana, made by the people for the people. Its an free software open mind which expands with the help of it’s users.
+To create a personal assistant software like Siri and Cortana, made by the people for the people. It is a free software open mind which expands with the help of it’s users.
 
 # What is it’s purpose?
 
